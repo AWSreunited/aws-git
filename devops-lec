@@ -11,10 +11,17 @@ it will be merged to master branch
 1
 2
 3
+<<<<<<< HEAD
 4
 5
 6
 7
 8
-9conflict check
+9
+this is branch conflict
+this line comes 2nd
+
+conflict check
 this line comes first
+
+stashing lab
